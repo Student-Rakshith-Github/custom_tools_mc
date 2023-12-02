@@ -3,8 +3,8 @@
 In this datapack, You start by crafting a OP pickaxe - Stage 1 which is crafted like:<br>
 
 @@@<br>
- /<br>
- /
+<tab>/<br>
+<tab>/
 <br>
 here @ = dirt and / = echo shard
 <br>
